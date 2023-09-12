@@ -73,3 +73,5 @@ captures/
 dhs-memberapp-android-resources.zip
 **/META-INF/deeplinks.txt
 temp/
+/patches
+
